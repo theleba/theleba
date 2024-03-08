@@ -33,11 +33,6 @@ I'm a passionate developer with a diverse background in technology and healthcar
 ![Wix](https://img.shields.io/badge/-Wix-000000?style=for-the-badge&logo=wix)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/theleba/theleba/blob/output/github-contribution-grid-snake.gif)
-
-
 ## 🎉 Curiosities
 
 - **Anime**: I love diving into different anime universes, exploring their rich stories and characters.
