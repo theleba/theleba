@@ -1,6 +1,6 @@
 # Hi there, I'm Leba! 👋
 
-Welcome to my GitHub profile! 
+Welcome to my DEV world! 
 
 ## 🌈 About Me
 
